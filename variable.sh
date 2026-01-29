@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=Modi  # No space should be there between value  and the equal.
+PERSON1=PK  # No space should be there between value  and the equal.
 PERSON2=CBN  # person -means variable should be always in capital letters.
 
 echo " $PERSON1 :: Hi $PERSON2, How are you ?"
