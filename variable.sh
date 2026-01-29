@@ -25,4 +25,4 @@ echo "$PERSON2: Thanks! It’s been a good move. Anyway, what are you doing this
 echo "$PERSON1: I’d love to! I’m free on Saturday afternoon. Does that work for you? "
 echo "$PERSON2: Saturday is perfect. Let’s meet at that new café downtown around 3:00 PM." 
 echo "$PERSON1: Sounds like a plan. I’ll see you then! "
-echo "$PERSON2: See you Saturday. Take care!
+echo "$PERSON2: See you Saturday. Take care!"
