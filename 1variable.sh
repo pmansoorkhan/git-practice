@@ -1,22 +1,7 @@
 #!/bin/bash
 
-PERSON1=PK  # No space should be there between value  and the equal.
-PERSON2=CBN  # person -means variable should be always in capital letters.
-
-echo " $PERSON1 :: Hi $PERSON2, How are you ?"
-echo " $PERSON2 :: Hi $PERSON1, I am good,what about you?"
-echo " $PERSON1:: Yes $PERSON2, I am also fine, it's going on as of now "
-echo "$PERSON2:: $PERSON1, How was the classes going on "
-echo " $PERSON1 :: ya $PERSON2, it's good as of now, need to learn more about it "
-
-
-
-
-
-#!/bin/bash
-
-PERSON1=Sarah  # No space should be there between value  and the equal.
-PERSON2=Marak  # person -means variable should be always in capital letters.
+PERSON1=$1  # No space should be there between value  and the equal.
+PERSON2=$2  # person -means variable should be always in capital letters.
 
 echo " $PERSON1: Hey, $PERSON2! Is that you? I haven’t seen you in ages! "
 echo "$PERSON2: $PERSON1! Wow, what a surprise. It really has been a long time. How have you been? "
