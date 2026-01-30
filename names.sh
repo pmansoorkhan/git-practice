@@ -1,7 +1,7 @@
 #!/bin/bash
 
-Name1=MansoorKhan
-Name2=MehranKhan
-Name3=2shahina
+Name=MansoorKhan
+Name=MehranKhan
+Name=2shahina
 
-echo "Hello $Name2"
+echo "Hello $Name"
