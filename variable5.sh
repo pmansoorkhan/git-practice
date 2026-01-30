@@ -5,6 +5,13 @@ echo "please enter your Name: "
 
 echo "Name is $Name"
 
-echo " please enter your password"
+echo " please enter your password:"
     read -s password
-echo  " password is $password" 
+
+
+echo "please enter your  height and weight"
+    read -s "height & Weight"
+echo "your height and weight are below"
+
+
+
