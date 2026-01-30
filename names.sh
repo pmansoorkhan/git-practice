@@ -1,4 +1,5 @@
 #!/bin/bash
 
-Name= Mansoor Khan 
+Name= "Mansoor Khan"
+User_Name: $Name 
 echo " $Name"
