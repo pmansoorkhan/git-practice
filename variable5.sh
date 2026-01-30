@@ -10,9 +10,13 @@ echo " please enter your password:"
 
 
 echo "please enter your  height:"
+    read height
 echo "please enter your  Weight:"
+    read Weight
    
-echo "  "
+echo " height is $height "
+echo " Weight is $Weight"
+
 
 
 
