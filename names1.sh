@@ -2,6 +2,6 @@
 
 #!/bin/bash
 
-echo "Enter your Name::"
+echo "Enter your Name"
 read=$Name
-echo"this is your name:: $read"
+echo"this is your name:$read"
