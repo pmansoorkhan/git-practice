@@ -11,6 +11,8 @@ echo " please enter your password:"
 
 echo "please enter your  height: &  weight:"
     read -s "height & Weight"
+echo " $height and $weight "
+
 
 
 
