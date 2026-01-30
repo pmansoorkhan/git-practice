@@ -1,5 +1,5 @@
 #!/bin/bash
-num=10
+num=1
 
 if [ $num -gt 5 ]; then
   echo "Number is greater than 5"
