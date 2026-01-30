@@ -22,7 +22,9 @@ echo "Name      :$Name"
 echo "country   :$country"
 echo "state     :$state"
 echo "born      :$born"
-echo "location  :$location
+echo "location  :$location"
 echo "THIS IS 2300 FUTURE CITY OF EARTH"
-echo " I am the humanoid robot in this world"
+echo "I am the humanoid robot in this world"
+echo ""
+
 
