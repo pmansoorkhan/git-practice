@@ -2,6 +2,6 @@
 
 Name=MansoorKhan
 Name=MehranKhan
-Name=2shahina
+Name=shahina
 
 echo "Hello $Name"
