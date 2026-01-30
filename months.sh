@@ -5,7 +5,3 @@ months="january, febuary, Mach, April, May, June, July, August, September, octob
 echo "${months}"
 
 
-#!/bin/bash
-month=="january, febuary, Mach, April, May, June, July, August, September, october, November,December"
-months=$
-echo "{$}"
