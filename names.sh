@@ -4,4 +4,4 @@ Name1=MansoorKhan
 Name2=MehranKhan
 Name3=2shahina
 
-echo "Hello $Name1"
+echo "Hello $Name2"
