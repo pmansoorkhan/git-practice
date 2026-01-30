@@ -12,17 +12,17 @@ echo "Enter Age:"
  echo "Enter Gender:"
     read Gender 
 
-echo "Enter Starting Location: "
-    read source
+echo "Enter Source Location: "
+    read Source
 
-echo "Enter destination location:"
-    read destination
+echo "Enter Destination location:"
+    read Destination
 
 echo "Date of Jounrey (DD-MM-YYYY):" 
-    read date
+    read Date
 
 echo "Enter Mobile Number:"
-    read contact
+    read Mobile
 
 echo "Enter Seat Number"
     read Seat
@@ -30,13 +30,13 @@ echo ""
 
 echo "***************BOOKING TRAIN TICKET*************"
 
-echo "passenger   :$NAME"
-echo "Age         :$AGE"
+echo "passenger   :$Name"
+echo "Age         :$Age"
 echo "Gender      :$Gender"    
 echo "Source      :$Source"
 echo "destination :$Destination"
 echo "date        :$Date"
-echo "contact     :$Contact"
+echo "contact     :$Mobile"
 echo "seat        :$Seat"
 echo "✅ Ticket booked successfully!"
 echo "Indian Railways wishes you a happy and safe journey" 
