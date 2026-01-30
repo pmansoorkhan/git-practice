@@ -12,7 +12,7 @@ echo " Product :$(($num1 * $num2))"
 echo " Division:$(($num1 / $num2))"
 echo " Remainder: $(($num1 % $num2))"
 
-echo " The value is Sum:; Difference:; ,Product: ; Division: ; Reminder:"
+
 
 
 
