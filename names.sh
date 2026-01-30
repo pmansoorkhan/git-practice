@@ -1,4 +1,5 @@
 #!/bin/bash
 
 Name=MansoorKhan
-echo "Hello $Name"
+Mobile=6304824960
+echo "Hello $Name", ""$Mobile"
