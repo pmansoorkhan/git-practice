@@ -14,8 +14,8 @@ echo "please enter your  height:"
 echo "please enter your  Weight:"
     read Weight
    
-echo " height is $height "
-echo " Weight is $Weight"
+echo " $Name height is $height "
+echo " $Name Weight is $Weight"
 
 
 
