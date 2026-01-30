@@ -4,7 +4,7 @@
 
 
 #!/bin/bash
-num=10
+num="enter the number"
 
 if [ $num -gt 5 ]; then
    echo "Number is greater than 5"
