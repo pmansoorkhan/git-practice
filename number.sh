@@ -3,7 +3,7 @@
 
 #!/bin/bas
 
-Number=$(1,2,3)
+Number="give the number"
 if [$Number -gt 5]; then
     echo "Number is greater than 5"
 else
