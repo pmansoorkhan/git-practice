@@ -40,3 +40,4 @@ echo "contact     :$Mobile"
 echo "seat        :$Seat"
 echo "✅ Ticket booked successfully!"
 echo "Indian Railways wishes you a happy and safe journey" 
+echo ""**********IR*******************
