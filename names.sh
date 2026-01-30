@@ -1,4 +1,4 @@
 #!/bin/bash
 
-Name=MansoorKhan, MehranKhan, shahina
+Name=MansoorKhan,MehranKhan,shahina
 echo "Hello $Name"
