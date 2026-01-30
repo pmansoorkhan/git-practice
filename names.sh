@@ -2,4 +2,4 @@
 
 Name=MansoorKhan
 Mobile=6304824960
-echo "Hello $Name", ""$Mobile"
+echo "Hello $Name,$Mobile"
